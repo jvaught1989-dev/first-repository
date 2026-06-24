@@ -1,4 +1,4 @@
-my first repositry
+my first repository
 
 Project Description
 
